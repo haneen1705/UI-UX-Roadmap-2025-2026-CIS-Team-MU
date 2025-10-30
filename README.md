@@ -276,6 +276,7 @@ A structured learning roadmap designed for CIS Team MU members to build and adva
 - [UIzard](https://uizard.io/)
 - [Framer](https://www.framer.com/?via=quy-vu-manh&dub_id=wLNoE7KF5F8L6MwH&gad_source=1)
 - [Uxfolio](https://uxfol.io/)
+- [UX Pilot - Highly Recommend!! 💎](https://uxpilot.ai/)
 
 --------------------------------------------------------------------------------------------------------------------------------
 
