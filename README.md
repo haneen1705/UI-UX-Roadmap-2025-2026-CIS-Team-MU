@@ -7,7 +7,7 @@ A structured learning roadmap designed for CIS Team MU members to build and adva
 > __“ Always remember to keep learning, a roadmap is not the end!__  
 #نسعى_ولله_التيسير
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
-<img width="850" height="800" alt="image" src="https://github.com/user-attachments/assets/0d1594d3-67a2-4184-945f-301a6e9111f8" />  
+<img width="1000" height="800" alt="image" src="https://github.com/user-attachments/assets/0d1594d3-67a2-4184-945f-301a6e9111f8" />  
 
 ## What is UI & UX Design?
 - __User Interface (UI) design__: is the process of transforming wireframes into a polished graphical user interface.
@@ -18,7 +18,8 @@ A structured learning roadmap designed for CIS Team MU members to build and adva
   - The role of a user experience designer is to understand the customer journey.
   - That means understanding the target audience, interviewing customers, defining user flows, and conducting user testing.
 
- ![image](https://github.com/user-attachments/assets/54da4dc1-30ca-49a1-8e5b-b0bf8e782b92)
+
+    <img width="850" height="600" alt="image" src="https://github.com/user-attachments/assets/54da4dc1-30ca-49a1-8e5b-b0bf8e782b92"/>
 
 --------------------------------------------------------------------------------------------------------------------------------
 
@@ -51,7 +52,7 @@ A structured learning roadmap designed for CIS Team MU members to build and adva
 ## 📝 Task:
 - Share a LinkedIn post on the differences between UI, UX and Product design.
 
-![difference-between-ui-ux](https://github.com/user-attachments/assets/cfe5d245-22da-4fe6-a70b-92534d2a8be8)
+    <img width="550" height="500" alt="image" src="https://github.com/user-attachments/assets/cfe5d245-22da-4fe6-a70b-92534d2a8be8"/>  
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -86,7 +87,7 @@ A structured learning roadmap designed for CIS Team MU members to build and adva
 ## 📝 Task:
 - Write a set of posts on "The art of everyday things" book!
 
-  ![image(1)](https://github.com/user-attachments/assets/051312cb-ba58-42ef-afbe-715585b655ec)
+  <img width="550" height="1000" alt="image" src="https://github.com/user-attachments/assets/051312cb-ba58-42ef-afbe-715585b655ec"/>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -161,7 +162,11 @@ A structured learning roadmap designed for CIS Team MU members to build and adva
 ## 📝 Task:
 - [First Landing Page design](https://www.youtube.com/watch?v=VoP-ZPJTepI)
 - [More pratice](https://youtu.be/KWO-2RjiemQ?si=8HruuJo1ziQjndUt)
-- Choose a project idea and do the empathize phase for it.
+- Choose a project idea and do the empathize phase for it.  
+
+
+  <img width="770" height="700" alt="647f462280b236609006a622_The UX Design Process Everything You Need to Know_2" src="https://github.com/user-attachments/assets/38f19b95-5e69-46a3-95b6-b9fbbc8a10eb" />
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
@@ -256,6 +261,9 @@ A structured learning roadmap designed for CIS Team MU members to build and adva
 - Full project with a team to apply all you’ve learnt.
 - [💫 Responsive web design](https://www.youtube.com/watch?v=6-pzw7HXimg)
 
+
+  <img width="770" height="700" alt="Keep going!" src="https://github.com/user-attachments/assets/7101f822-9c1e-477c-886c-37dce84dc495" />
+
 -------------------------------------------------------------------------------------------------------------------------------
 # 🥇 Advanced: (Week 21 - Week 24)
 ## UI Design: Components & Variables:
@@ -309,6 +317,11 @@ A structured learning roadmap designed for CIS Team MU members to build and adva
 
 ## 📝 Tasks:
 - Project to implement light & dark modes or different languages.
+
+
+### Congrats!!! You've Made It 🎉🎉🎉
+  ![BbBabyGIF](https://github.com/user-attachments/assets/12bd3530-03e4-4ccb-845d-76353ba53854)
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # 🎖️ Free courses with certificates:
