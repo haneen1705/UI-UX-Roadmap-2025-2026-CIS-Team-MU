@@ -4,7 +4,7 @@ A structured learning roadmap designed for CIS Team MU members to build and adva
   
 **Clear learning path: Entry → Beginner → Intermediate → Advanced**  
 
-> __“ Always remember to keep learning, a roadmap is not the end!__  
+> __ 📌 “ Always remember to keep learning, a roadmap is not the end!__  
 #نسعى_ولله_التيسير
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 <img width="1000" height="800" alt="image" src="https://github.com/user-attachments/assets/0d1594d3-67a2-4184-945f-301a6e9111f8" />  
@@ -297,6 +297,7 @@ A structured learning roadmap designed for CIS Team MU members to build and adva
 - [Framer](https://www.framer.com/?via=quy-vu-manh&dub_id=wLNoE7KF5F8L6MwH&gad_source=1)
 - [Uxfolio](https://uxfol.io/)
 - [UX Pilot - Highly Recommend!! 💎](https://uxpilot.ai/)
+- [UX Audit Pro - ChatGPT](https://chatgpt.com/g/g-rBHMYzlYs-ux-audit-pro)
 
 --------------------------------------------------------------------------------------------------------------------------------
 
@@ -311,7 +312,6 @@ A structured learning roadmap designed for CIS Team MU members to build and adva
 - [Complete Guide to UI Portfolio](https://blog.uxfol.io/ui-designer-portfolio/)
 - [Advice for Beginners](https://www.youtube.com/watch?v=NGiQCBsVayI)
 - [How To Create A Clean Portfolio Using Behance](https://www.youtube.com/watch?v=VIjZSJB1uyc)
-- 
 
 --------------------------------------------------------------------------------------------------------------------------------
 
