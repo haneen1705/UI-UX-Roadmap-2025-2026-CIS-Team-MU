@@ -324,8 +324,9 @@ A structured learning roadmap designed for CIS Team MU members to build and adva
 
 
 ### Congrats!!! You've Made It 🎉🎉🎉
-- Wishing you even more success in the future,**CIS Mentors.**
-  ![BbBabyGIF](https://github.com/user-attachments/assets/12bd3530-03e4-4ccb-845d-76353ba53854)
+- Wishing you even more success in the future,**CIS Mentors.**  
+
+![BbBabyGIF](https://github.com/user-attachments/assets/12bd3530-03e4-4ccb-845d-76353ba53854)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
