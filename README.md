@@ -18,7 +18,7 @@ A structured learning roadmap designed for CIS Team MU members to build and adva
   - The role of a user experience designer is to understand the customer journey.
   - That means understanding the target audience, interviewing customers, defining user flows, and conducting user testing.
 
-
+  
     <img width="850" height="600" alt="image" src="https://github.com/user-attachments/assets/54da4dc1-30ca-49a1-8e5b-b0bf8e782b92"/>
 
 --------------------------------------------------------------------------------------------------------------------------------
