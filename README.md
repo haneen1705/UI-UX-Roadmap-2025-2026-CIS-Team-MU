@@ -361,17 +361,61 @@ A structured learning roadmap designed for CIS Team MU members to build and adva
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Resources: 
+### Fonts:
 - [Google fonts](https://fonts.google.com/)
 - [Arab Fonts](https://arbfonts.com/)
+- [dafont](https://www.dafont.com/)
+
+### Colors:
 - [Coolors](https://coolors.co/)
 - [Color Adobe](https://color.adobe.com/create/color-wheel)
 - [Color Hunters](https://colorhunt.co/)
-- [Freepik](https://www.freepik.com/)
-- [Mockups](https://www.mockupworld.co/)
-- [Icons](https://www.svgrepo.com/)
-- [Images without background](https://www.pngegg.com/)
+- [Flat UI Colors](https://flatuicolors.com/)
+- [Colormind](http://colormind.io/)
+- [Colorinspire](https://colorinspire.webflow.io/)
+
+### Colors Palette
+- [Color Palettes for Designers and Artists - Color Hunt](https://colorhunt.co/)
+- [Fresh Background Gradients | WebGradients.com ](https://webgradients.com/)
+- [ColorSpace - Color Palettes Generator and Color Gradient Tool (mycolor.space)](https://mycolor.space/)
+
+### Images:
 - [Images Yandex](https://yandex.com/images/)
 - [Unsplash](https://unsplash.com/)
+- [Freepik](https://www.freepik.com/)
+- [Pexels](https://www.pexels.com/)
+- [Pixabay](https://www.shutterstock.com/search/pixabay?kw=&gclid=Cj0KCQjw0umSBhDrARIsAH7FCoc2xTMHHU8J9BQXbOJ-p8OEQjoqvNW6LnS0y9wqUdGGvnBrejDcqzAaAglhEALw_wcB)
+- [Reshot](https://www.reshot.com/)
+- [Pinterest](https://www.pinterest.com/)
+
+
+### Images without BG:
+- [Images without background](https://www.pngegg.com/)
+- [Remove Background From Images](https://www.erase.bg/en/) (If the image has the included element)
+
+### Mockups
+- [Mockups](https://www.mockupworld.co/)
+
+### Icons:
+- [Flaticon](https://www.flaticon.com)
+- [Icons8](https://icons8.com/)
+- [Iconfinder](https://www.iconfinder.com/)
+- [Free icons](https://freeicons.io)
+- [Feather icons](https://feathericons.com/)
+- [The Noun Project](https://thenounproject.com/)
+- [Icons store](https://iconstore.co/)
+- [Simple icon](https://simpleicons.org/)
+- [Icons](https://www.svgrepo.com/)
+
+### Illustrations
+- [UnDraw](https://undraw.co/)
+- [StorySet](https://www.atlassian.com/software/jira?gclsrc=aw.ds&&aceid=&adposition=&adgroup=97207397182&campaign=9795515412&creative=430047058033&device=c&keyword=story%20set&matchtype=e&network=g&placement=&ds_kids=p69502831155&ds_e=GOOGLE&ds_eid=700000001756546&ds_e1=GOOGLE&gclid=Cj0KCQjw0umSBhDrARIsAH7FCoeUXJYyw2zXSXumnFKzY0Zm_6_QbGZc2mwzy8Weo5mR9mkyWrovV4waAp4qEALw_wcB)
+- [Vecteezy](https://www.vecteezy.com/)
+- [Drawkit](https://drawkit.com/)
+- [Humaaans](https://www.humaaans.com/)
+- [Illustation](https://illustation.io/)
+
+### Videos:
 - [Videos](https://www.videezy.com/)
 - [Videos resource](https://mixkit.co/)
 - [More videos](https://www.videvo.net/)
