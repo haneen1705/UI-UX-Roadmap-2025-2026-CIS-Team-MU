@@ -9,6 +9,19 @@ A structured learning roadmap designed for CIS Team MU members to build and adva
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 <img width="850" height="800" alt="image" src="https://github.com/user-attachments/assets/0d1594d3-67a2-4184-945f-301a6e9111f8" />  
 
+## What is UI & UX Design?
+- __User Interface (UI) design__: is the process of transforming wireframes into a polished graphical user interface.
+  - A UI designer’s job begins where a UX designer’s job ends—at the prototyping stage.
+  - They take the wire frames and add visual design to make them more usable, aesthetically appealing, and optimized for different screen sizes.
+
+- __User Experience (UX) design__: is about understanding the overall journey of your users and turning it into a product.
+  - The role of a user experience designer is to understand the customer journey.
+  - That means understanding the target audience, interviewing customers, defining user flows, and conducting user testing.
+
+ ![image](https://github.com/user-attachments/assets/54da4dc1-30ca-49a1-8e5b-b0bf8e782b92)
+
+--------------------------------------------------------------------------------------------------------------------------------
+
 # Level 0️⃣ : Entry (Week 1)
 > __“Every great designer once started exactly where you are now — full of questions, ideas, and excitement. Keep exploring, keep learning, and watch your skills grow__
 ## Main Concepts: 🪄 Get introduced to our world!
@@ -21,9 +34,6 @@ A structured learning roadmap designed for CIS Team MU members to build and adva
   
 - 📃 [Article 1](https://www.interaction-design.org/literature/article/ux-vs-ui-what-s-the-difference?srsltid=AfmBOorHVxSKjiPUCpq-iud_hSHLUEF2PefT-gfLi7GqonKUFgH78ilZ)  
 - 📃 [Article 2](https://maze.co/blog/ui-vs-ux/#difference-ui-ux)
-
-  
-![image](https://github.com/user-attachments/assets/54da4dc1-30ca-49a1-8e5b-b0bf8e782b92)
 
 
 ## Start defining your goals in learning:
@@ -40,6 +50,8 @@ A structured learning roadmap designed for CIS Team MU members to build and adva
 
 ## 📝 Task:
 - Share a LinkedIn post on the differences between UI, UX and Product design.
+
+![difference-between-ui-ux](https://github.com/user-attachments/assets/cfe5d245-22da-4fe6-a70b-92534d2a8be8)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
