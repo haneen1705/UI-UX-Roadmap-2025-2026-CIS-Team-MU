@@ -4,7 +4,7 @@ A structured learning roadmap designed for CIS Team MU members to build and adva
   
 **Clear learning path: Entry → Beginner → Intermediate → Advanced**  
 
-> __ 📌 “ Always remember to keep learning, a roadmap is not the end!__  
+> 📌 __“ Always remember to keep learning, a roadmap is not the end!__  
 #نسعى_ولله_التيسير
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 <img width="1000" height="800" alt="image" src="https://github.com/user-attachments/assets/0d1594d3-67a2-4184-945f-301a6e9111f8" />  
