@@ -247,6 +247,12 @@ A structured learning roadmap designed for CIS Team MU members to build and adva
 
 ### Case study:
 - [📽️ Session](https://youtu.be/g2aEZy1q_Po?si=8DmNGwTTlqW8HAwj)
+
+- [🎥 Review by senior 1 ](https://youtu.be/rY2tXKj6RFE?si=8jbGSY9T3OZQ8IT-)
+
+- [🎥 Review by senior 2](https://youtu.be/MiNy79_aQrY?si=UHlwLCVvLHPl-BvJ)
+
+- [🎥 Review by senior 3](https://youtu.be/oERUx_eDCNk?si=qgkcEP2OKW7rUK1L)
 -----------------------------------------------------------------------------------------------------------------------------------
 
 ### Learn UX Auditing:
