@@ -261,6 +261,7 @@ A structured learning roadmap designed for CIS Team MU members to build and adva
 ---------------------------------------------------------------------------------------------------------------------------
 
 - [UX in 1️⃣0️⃣0️⃣ minutes](https://www.youtube.com/watch?v=gv1Zg9_UYo0)
+- [Important Articles (posts)] (https://www.linkedin.com/posts/menna-abdalaziz_%D8%A7%D9%84%D8%B1%D8%AD%D9%84%D8%A9-%D8%A7%D9%84%D9%84%D9%8A-%D8%A3%D8%B3%D8%AA%D9%85%D8%B1%D8%AA-6-%D8%B4%D9%87%D9%88%D8%B1-%D8%A3%D9%86%D8%AA%D9%87%D8%AA-activity-7410705189382529024-86Py?utm_medium=ios_app&rcm=ACoAADweRQEBAoYiRI_4MmSX6TTsySHmdD0wSzI&utm_source=social_share_send&utm_campaign=copy_link)
 --------------------------------------------------------------------------------------------------------------------------
 
 ## 📝 Tasks:
