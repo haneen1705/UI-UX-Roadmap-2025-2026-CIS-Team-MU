@@ -18,6 +18,8 @@ A structured learning roadmap designed for CIS Team MU members to build and adva
   - The role of a user experience designer is to understand the customer journey.
   - That means understanding the target audience, interviewing customers, defining user flows, and conducting user testing.
 
+- A UI / UX Designer role is to bridge between business requirments & development.
+- Translate the business goals into features and screens to be handed over to development team.
   
     <img width="850" height="600" alt="image" src="https://github.com/user-attachments/assets/54da4dc1-30ca-49a1-8e5b-b0bf8e782b92"/>
 
@@ -28,12 +30,10 @@ A structured learning roadmap designed for CIS Team MU members to build and adva
 ## Main Concepts: 🪄 Get introduced to our world!
 ### Learn the differences between UI, UX & Product design
 ##### Resources:  
-- 📽️ [Video 1 - Arabic](https://www.youtube.com/watch?v=9xxkKl_8XjM)  
+- 📽️ [Video 1 - Arabic](https://www.youtube.com/watch?v=9xxkKl_8XjM)
 - 📽️ [Video 2 - Arabic](https://www.youtube.com/watch?v=kiPozdZJt74)  
-
 - 📽️ [Video - English](https://www.youtube.com/watch?v=wIuVvCuiJhU&t=3s)  
-  
-- 📃 [Article 1](https://www.interaction-design.org/literature/article/ux-vs-ui-what-s-the-difference?srsltid=AfmBOorHVxSKjiPUCpq-iud_hSHLUEF2PefT-gfLi7GqonKUFgH78ilZ)  
+- 📃 [Article 1](https://www.interaction-design.org/literature/article/ux-vs-ui-what-s-the-difference?srsltid=AfmBOorHVxSKjiPUCpq-iud_hSHLUEF2PefT-gfLi7GqonKUFgH78ilZ)
 - 📃 [Article 2](https://maze.co/blog/ui-vs-ux/#difference-ui-ux)
 
 
@@ -125,8 +125,11 @@ A structured learning roadmap designed for CIS Team MU members to build and adva
 ---------------------------------------------------------------------------------------------
 
 ## 📝 Task:
+- Train with at least 5 desgin replicating tasks.
 - [Sign-in page web](https://www.youtube.com/watch?v=8ly4Z3e3cPw&t=751s)
 - [On boarding - mobile](https://dribbble.com/shots/14343672-KetoDiet-Onboarding-Screens)
+- [Start copying designs](https://mobbin.com/screens/ac1946e9-29ef-4953-a433-d073ed7bb066)
+- [Train more](https://mobbin.com/screens/06db1741-d705-4da3-bc4b-4acd7ac80bfb)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
@@ -162,6 +165,7 @@ A structured learning roadmap designed for CIS Team MU members to build and adva
 ## 📝 Task:
 - [First Landing Page design](https://www.youtube.com/watch?v=VoP-ZPJTepI)
 - [More pratice](https://youtu.be/KWO-2RjiemQ?si=8HruuJo1ziQjndUt)
+- [Your first project](https://youtu.be/7tC8b9pIqhY?si=8byCg1guth30STCO)
 - Choose a project idea and do the empathize phase for it.  
 
 
@@ -247,11 +251,8 @@ A structured learning roadmap designed for CIS Team MU members to build and adva
 
 ### Case study:
 - [📽️ Session](https://youtu.be/g2aEZy1q_Po?si=8DmNGwTTlqW8HAwj)
-
 - [🎥 Review by senior 1 ](https://youtu.be/rY2tXKj6RFE?si=8jbGSY9T3OZQ8IT-)
-
 - [🎥 Review by senior 2](https://youtu.be/MiNy79_aQrY?si=UHlwLCVvLHPl-BvJ)
-
 - [🎥 Review by senior 3](https://youtu.be/oERUx_eDCNk?si=qgkcEP2OKW7rUK1L)
 -----------------------------------------------------------------------------------------------------------------------------------
 
@@ -261,12 +262,24 @@ A structured learning roadmap designed for CIS Team MU members to build and adva
 ---------------------------------------------------------------------------------------------------------------------------
 
 - [UX in 1️⃣0️⃣0️⃣ minutes](https://www.youtube.com/watch?v=gv1Zg9_UYo0)
-- [Important Articles - post series](https://www.linkedin.com/posts/menna-abdalaziz_%D8%A7%D9%84%D8%B1%D8%AD%D9%84%D8%A9-%D8%A7%D9%84%D9%84%D9%8A-%D8%A3%D8%B3%D8%AA%D9%85%D8%B1%D8%AA-6-%D8%B4%D9%87%D9%88%D8%B1-%D8%A3%D9%86%D8%AA%D9%87%D8%AA-activity-7410705189382529024-86Py?utm_medium=ios_app&rcm=ACoAADweRQEBAoYiRI_4MmSX6TTsySHmdD0wSzI&utm_source=social_share_send&utm_campaign=copy_link)
+- [Important Articles - post series](https://www.linkedin.com/posts/menna-abdalaziz_%D8%A7%D9%84%D8%B1%D8%AD%D9%84%D8%A9-%D8%A7%D9%84%D9%84%D9%8A-%D8%A3%D8%B3%D8%AA%D9%85%D8%B1%D8%AA-6-%D8%B4%D9%87%D9%88%D8%B1-%D8%A3%D9%86%D8%AA%D9%87%D8%AA-activity-7410705189382529024-86Py?)
 --------------------------------------------------------------------------------------------------------------------------
+### AI Tools:
+- [UIzard](https://uizard.io/)
+- [UX Pilot - Highly Recommend!! 💎](https://uxpilot.ai/)
+- [Brono AI](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://brono.ai/&ved=2ahUKEwjwk62N_p-SAxWtMvsDHVMHBjMQFnoECBAQAQ&usg=AOvVaw34d6CnxIVy4qQK5wyVxAS8)
+- [UX Audit Pro - ChatGPT](https://chatgpt.com/g/g-rBHMYzlYs-ux-audit-pro)
+- [Magic Pattern](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.magicpatterns.com/&ved=2ahUKEwjEiteY_p-SAxU1Q6QEHV5zCxkQFnoECAsQAQ&usg=AOvVaw0kpGZqES5SPmBmyHXR5G-l)
+- [Claude AI](https://claude.ai/)
+- [Galileo AI](https://galileo.ai/)
+- [Lovable](https://lovable.dev/designers)
+- [Stitch](https://stitch.withgoogle.com/)
 
 ## 📝 Tasks:
 - Full project with a team to apply all you’ve learnt.
 - [💫 Responsive web design](https://www.youtube.com/watch?v=6-pzw7HXimg)
+- [Dashboard](https://youtu.be/QZebI-iX1bA?si=CK5MTdUlJoE99SRP)
+- [Mobile App](https://www.youtube.com/watch?v=gQkgMi7VhHI&list=PLm5edVS-S7n8EPSzeFjpsqtmDQM4AE98h)
 
 
   <img width="770" height="700" alt="Keep going!" src="https://github.com/user-attachments/assets/7101f822-9c1e-477c-886c-37dce84dc495" />
@@ -292,19 +305,15 @@ A structured learning roadmap designed for CIS Team MU members to build and adva
 - [📽️ English Video 3](https://www.youtube.com/watch?v=YFCistZV8wY)
 
 --------------------------------------------------------------------------------------------------------------------------------
+## Learn a vibe coding tool:
+- [Framer](https://www.framer.com/)
+- [Webflow](https://webflow.com/)
+- [Wix](https://www.wix.com/)
 
+--------------------------------------------------------------------------------------------------------------------------------
 ## Learn the laws:
 - [Laws of UX](https://lawsofux.com/)
 - [Laws of UI](https://uxdesign.cc/58-rules-for-stunning-and-effective-user-interface-design-ea4b93f931f6)
-
-----------------------------------------------------------------------------------------------------------------------------------
-
-## Learn to use AI tools:
-- [UIzard](https://uizard.io/)
-- [Framer](https://www.framer.com/?via=quy-vu-manh&dub_id=wLNoE7KF5F8L6MwH&gad_source=1)
-- [Uxfolio](https://uxfol.io/)
-- [UX Pilot - Highly Recommend!! 💎](https://uxpilot.ai/)
-- [UX Audit Pro - ChatGPT](https://chatgpt.com/g/g-rBHMYzlYs-ux-audit-pro)
 
 --------------------------------------------------------------------------------------------------------------------------------
 
@@ -321,6 +330,7 @@ A structured learning roadmap designed for CIS Team MU members to build and adva
 - [How To Create A Clean Portfolio Using Behance](https://www.youtube.com/watch?v=VIjZSJB1uyc)
 
 --------------------------------------------------------------------------------------------------------------------------------
+
 
 ## Templates:
 - [LinkedIn post](https://www.linkedin.com/posts/dehghanpoursamaneh_ux-uxdesign-uxui-activity-7371527881899974656-FqXx?utm_source=share&utm_medium=member_desktop&rcm=ACoAADweRQEBAoYiRI_4MmSX6TTsySHmdD0wSzI)
