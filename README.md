@@ -104,7 +104,7 @@ A structured learning roadmap designed for CIS Team MU members to build and adva
 ## 🪜 More UI Principles
 ### Grids:
 - [📽️ Arabic Video 1](https://www.youtube.com/watch?v=Puqqgs_uLi4&pp=ygUOZ3JpZHMgaW4gZmlnbWE%3D)
-- [📽️ Arabic Video 2](https://youtu.be/nk5GVZp556I?si=d3OLMkmEAERJD5lA)
+- [📽️ Arabic Video 2](https://youtu.be/xUfiMPTz2mI?si=oL3d0YnQBnqdmYUG)
 -------------------------------------------------------------------------------------------
 
 ### Spacing & Layout:
