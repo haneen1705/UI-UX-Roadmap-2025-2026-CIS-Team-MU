@@ -112,6 +112,7 @@ A structured learning roadmap designed for CIS Team MU members to build and adva
 - [📽️ Arabic Video 2](https://youtu.be/gJ5SHjWMTyE?si=j-tci4eecv5TWO_f)
 - [📽️ Arabic Video 3](https://youtu.be/nHRcr2NivzU?si=hY4TBsrDXKNX11RZ)
 - [📽️ Arabic Video 4](https://youtu.be/rxOvJsjuGIA?si=3lGy79eCUosJDRoo)
+- [📽️ English Video](https://youtu.be/cf95Z7Ngg8k?si=tVvXQhwMoCRMPdSH)
 --------------------------------------------------------------------------------------------
 
 ### Contrast:
@@ -136,15 +137,9 @@ A structured learning roadmap designed for CIS Team MU members to build and adva
 
 # 🥉 Beginner Phase 1️⃣  - (Week 11 - Week 16)
 ## Advanced principles 
-### Proximity & Similarity:
-- [📽️ Arabic Video 1](https://www.youtube.com/watch?v=kr7ExgMWmAY&list=PLjzhiGLyugKwnM6uN4NXhfpU8L7XvtDEv&index=6&pp=iAQB)
-- [📽️ Arabic Video 2](https://www.youtube.com/watch?v=lcfcqKiWIrU)
-- [📽️ Arabic Video 3](https://www.youtube.com/watch?v=9_WTdo71LnU)
--------------------------------------------------------------------------------------------
 
 ### Visual Hierarchy:
-- [📽️ Video 1](https://www.youtube.com/watch?v=8OTbyWndY9M)
-- [📽️ Video 2](https://www.youtube.com/watch?v=8OTbyWndY9M)
+- [📽️ Video](https://www.youtube.com/watch?v=8OTbyWndY9M)
 --------------------------------------------------------------------------------------------------------------------
 
 ### Best Practices:
@@ -155,74 +150,20 @@ A structured learning roadmap designed for CIS Team MU members to build and adva
 
 ### Use plug-ins:
 - [Design more easily!](https://www.youtube.com/watch?v=iz_vvUGrOYU&t=48s)
+------------------------------------------------------------------------------
+
+### UX Laws
+- [Laws of UX](https://lawsofux.com/)
+- [Laws of UI](https://uxdesign.cc/58-rules-for-stunning-and-effective-user-interface-design-ea4b93f931f6)
+- [UX in 1️⃣0️⃣0️⃣ minutes](https://www.youtube.com/watch?v=gv1Zg9_UYo0)
+- [Important Articles - post series](https://www.linkedin.com/posts/menna-abdalaziz_%D8%A7%D9%84%D8%B1%D8%AD%D9%84%D8%A9-%D8%A7%D9%84%D9%84%D9%8A-%D8%A3%D8%B3%D8%AA%D9%85%D8%B1%D8%AA-6-%D8%B4%D9%87%D9%88%D8%B1-%D8%A3%D9%86%D8%AA%D9%87%D8%AA-activity-7410705189382529024-86Py?)
+-------------------------------------------------------------------------------------------------------------------------
 
 ## Phase 1 - Empathize: UX Research:
 - [📽️ Video 1](https://youtu.be/z3ruzLItPlM?si=iXBDUvqr9XppQmtm)
 - [📽️ Video 2](https://www.youtube.com/watch?v=XtgIhbCtOIg)
 - [📽️ Video 3](https://youtu.be/rP0DEC6pZqM?si=v5pcbCanEyWmiJpB)
 -----------------------------------------------------------------------------------------------------------------------------------------
-
-## 📝 Task:
-- [First Landing Page design](https://www.youtube.com/watch?v=VoP-ZPJTepI)
-- [More pratice](https://youtu.be/KWO-2RjiemQ?si=8HruuJo1ziQjndUt)
-- [Your first project](https://youtu.be/7tC8b9pIqhY?si=8byCg1guth30STCO)
-- Choose a project idea and do the empathize phase for it.  
-
-
-  <img width="770" height="700" alt="647f462280b236609006a622_The UX Design Process Everything You Need to Know_2" src="https://github.com/user-attachments/assets/38f19b95-5e69-46a3-95b6-b9fbbc8a10eb" />
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-
-# 🥈 Level Intermediate - (Week 16 - Week 20)
-## 🖼️ UI Design - Auto-Layout & Responsive & Design System:
-### Get inspired:
-- [🙋🏻‍♀️ Where to get inspiration](https://www.youtube.com/watch?v=KwMo0To3d8g&t=211s)
-- [After inspiration](https://youtu.be/3gUDIfM2jKo?si=np5xibYWUhU1GztL)
-- [Inspo website](https://www.notion.so/Inspiration-Website-23476623fa818073ad4bca7e51178b9c?source=copy_link)
-
------------------------------------------------------------------------------------------------------------------
-
-### Auto-Layout:
-- [📽️ Part 1](https://www.youtube.com/watch?v=EEfqMYcCexo)
-- [📽️ Part 2](https://www.youtube.com/watch?v=VJD1SvXEXE4)
-- [📽️ Another resource pt.1](https://www.youtube.com/watch?v=txVbfm03Fs0)
-- [📽️ Another resource pt.2](https://www.youtube.com/watch?v=3HXGsDnmQ1c)
-- [📽️ Another resource pt.3](https://www.youtube.com/watch?v=CrbxlMbM518)
-
-------------------------------------------------------------------------------------------------- 
-
-### Responsive:
-- [📽️ Arabic Video](https://www.youtube.com/watch?v=xUfiMPTz2mI&pp=ygUOZ3JpZHMgaW4gZmlnbWE%3D)
-- [📽️ English Video](https://www.youtube.com/watch?v=gwiX0oASlEw)
-  
-----------------------------------------------------------------------------------------------------------------
-
-### Design System:
-- [📽️ Foundations](https://www.youtube.com/watch?v=_SK2L3Nns_s&list=PLlzarBwg78omi49iNVXY_iTXvRm9V1tZN)
-- [📽️ Text Fields](https://www.youtube.com/watch?v=4STqQw-gMtE&list=PLlzarBwg78omi49iNVXY_iTXvRm9V1tZN&index=2)
-- [📽️ Buttons](https://www.youtube.com/watch?v=gvDOui1V5l4&list=PLlzarBwg78omi49iNVXY_iTXvRm9V1tZN&index=3)
-- [📽️ Drop-down lists](https://youtu.be/MXnzu6RtHJU?feature=shared)
-- [📽️ Checkboxes & Radio buttons](https://youtu.be/vfCAFDtENVE?feature=shared)
-- [📽️ Pattern Library](https://youtu.be/vfCAFDtENVE?feature=shared)
-- [📘 Book: The actionable guide to starting your design system](https://drive.google.com/drive/folders/1KTmzWMcdzorubP3gq78Q6ur18eZv9Vji)
-  
------------------------------------------------------------------------------------------------------------------------------------------------------
-
-### Prototyping
-- [📽️ Arabic Video](https://www.youtube.com/watch?v=1hJjyL0o7vg&pp=ygUPcHJvdG90eXBlIGZpZ21h0gcJCfwJAYcqIYzv)
-- [📽️ English Video](https://www.youtube.com/watch?v=k1iwiHJrAWI)
------------------------------------------------------------------------------------------------------------------------
-
-### Learn to integrate with technical & hand offs + planning and project management tools:
-- [📽️ Handoff English](https://youtu.be/EoS30ZEJZ5s?si=Cun2G92NP97SNA_A)
-- [📽️ Handoff Arabic](https://www.youtube.com/watch?v=APufh9s_Qgg&pp=ygUsdmlzdWFsIGhpZXJhcmNoeSBpbiB1aSBkZXNpZ24g2KjYp9mE2LnYsdio2Yo%3D)
-- [📽️ Notion tool](https://youtu.be/RS-BW4Q4H_E?si=bdDTibgTRVYwjhY1)
-- [📽️ Jira Tool](https://youtu.be/NDVSMlVYxm8?si=R2VEQY0MZxB5Dbo8)
-- [Articles on Handoff](https://www.linkedin.com/posts/ariane-hart777_the-ultimate-product-design-handoff-activity-7307815720183033857-t5oc?utm_source=share&utm_medium=member_desktop&rcm=ACoAADweRQEBAoYiRI_4MmSX6TTsySHmdD0wSzI)
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 💡 UX: Define & Ideate:
 - [📽️ Video 1](https://www.youtube.com/watch?v=n0Fk3BKkjXE&list=PLPKlKj-O4T-WX6X0PwwCIdEcUReL1Nrq8&index=10)
@@ -249,6 +190,70 @@ A structured learning roadmap designed for CIS Team MU members to build and adva
 - [📽️ English Video](https://www.youtube.com/watch?v=qpH7-KFWZRI)
 ------------------------------------------------------------------------------------------------------------
 
+
+## 📝 Task:
+- [First Landing Page design](https://www.youtube.com/watch?v=VoP-ZPJTepI)
+- [More pratice](https://youtu.be/KWO-2RjiemQ?si=8HruuJo1ziQjndUt)
+- [Your first project](https://youtu.be/7tC8b9pIqhY?si=8byCg1guth30STCO)
+- [📽️ Figma Tutorials for UI](https://youtube.com/playlist?list=PLMW7ux5yYKWmqu0ltyb9AVLhAQINTfHmS&si=RI3BW0A0zROXzv09)
+- Choose a project idea and do the empathize, define & ideate phases for it.  
+
+
+  <img width="770" height="700" alt="647f462280b236609006a622_The UX Design Process Everything You Need to Know_2" src="https://github.com/user-attachments/assets/38f19b95-5e69-46a3-95b6-b9fbbc8a10eb" />
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# 🥈 Level Intermediate - (Week 16 - Week 20)
+## 🖼️ UI Design - Auto-Layout & Responsive & Design System:
+### Get inspired:
+- [🙋🏻‍♀️ Where to get inspiration](https://www.youtube.com/watch?v=KwMo0To3d8g&t=211s)
+- [After inspiration](https://youtu.be/3gUDIfM2jKo?si=np5xibYWUhU1GztL)
+
+-----------------------------------------------------------------------------------------------------------------
+
+### Auto-Layout:
+- [📽️ Part 1](https://www.youtube.com/watch?v=EEfqMYcCexo)
+- [📽️ Part 2](https://www.youtube.com/watch?v=VJD1SvXEXE4)
+- [📽️ Another resource pt.1](https://www.youtube.com/watch?v=txVbfm03Fs0)
+- [📽️ Another resource pt.2](https://www.youtube.com/watch?v=3HXGsDnmQ1c)
+- [📽️ Another resource pt.3](https://www.youtube.com/watch?v=CrbxlMbM518)
+- [📽️ Eng. Islam El-Amir](https://youtu.be/rnP-ce6jAoQ?si=VZHbllOViYq1_zgk)
+
+------------------------------------------------------------------------------------------------- 
+
+### Responsive:
+- [📽️ Arabic Video 1](https://www.youtube.com/watch?v=xUfiMPTz2mI&pp=ygUOZ3JpZHMgaW4gZmlnbWE%3D)
+- [📽️ Arabic Video 2](https://www.youtube.com/watch?v=xUfiMPTz2mI&pp=ygUOZ3JpZHMgaW4gZmlnbWE%3D)
+- [📽️Arabic Video 3](https://youtu.be/UATKp18twQY?si=Ai-Z8omUPmZgTRCk)
+- [📽️ English Video](https://www.youtube.com/watch?v=gwiX0oASlEw)
+  
+----------------------------------------------------------------------------------------------------------------
+
+### Design System:
+- [📽️ Foundations](https://www.youtube.com/watch?v=_SK2L3Nns_s&list=PLlzarBwg78omi49iNVXY_iTXvRm9V1tZN)
+- [📽️ Text Fields](https://www.youtube.com/watch?v=4STqQw-gMtE&list=PLlzarBwg78omi49iNVXY_iTXvRm9V1tZN&index=2)
+- [📽️ Buttons](https://www.youtube.com/watch?v=gvDOui1V5l4&list=PLlzarBwg78omi49iNVXY_iTXvRm9V1tZN&index=3)
+- [📽️ Drop-down lists](https://youtu.be/MXnzu6RtHJU?feature=shared)
+- [📽️ Checkboxes & Radio buttons](https://youtu.be/vfCAFDtENVE?feature=shared)
+- [📽️ Pattern Library](https://youtu.be/vfCAFDtENVE?feature=shared)
+- [📘 Book: The actionable guide to starting your design system](https://drive.google.com/drive/folders/1KTmzWMcdzorubP3gq78Q6ur18eZv9Vji)
+  
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Prototyping
+- [📽️ Arabic Video](https://www.youtube.com/watch?v=1hJjyL0o7vg&pp=ygUPcHJvdG90eXBlIGZpZ21h0gcJCfwJAYcqIYzv)
+- [📽️ English Video](https://www.youtube.com/watch?v=k1iwiHJrAWI)
+
+-----------------------------------------------------------------------------------------------------------------------
+
+### Learn to integrate with technical & hand offs + planning and project management tools:
+- [📽️ Handoff English](https://youtu.be/EoS30ZEJZ5s?si=Cun2G92NP97SNA_A)
+- [📽️ Handoff Arabic](https://www.youtube.com/watch?v=APufh9s_Qgg&pp=ygUsdmlzdWFsIGhpZXJhcmNoeSBpbiB1aSBkZXNpZ24g2KjYp9mE2LnYsdio2Yo%3D)
+- [📽️ Notion tool](https://youtu.be/RS-BW4Q4H_E?si=bdDTibgTRVYwjhY1)
+- [📽️ Jira Tool](https://youtu.be/NDVSMlVYxm8?si=R2VEQY0MZxB5Dbo8)
+- [Articles on Handoff](https://www.linkedin.com/posts/ariane-hart777_the-ultimate-product-design-handoff-activity-7307815720183033857-t5oc?utm_source=share&utm_medium=member_desktop&rcm=ACoAADweRQEBAoYiRI_4MmSX6TTsySHmdD0wSzI)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Case study:
 - [📽️ Session](https://youtu.be/g2aEZy1q_Po?si=8DmNGwTTlqW8HAwj)
 - [🎥 Review by senior 1 ](https://youtu.be/rY2tXKj6RFE?si=8jbGSY9T3OZQ8IT-)
@@ -259,10 +264,7 @@ A structured learning roadmap designed for CIS Team MU members to build and adva
 ### Learn UX Auditing:
 - [📽️ Video 1](https://youtu.be/GXTkczM8nmY?si=wmx0nO6pzAuNySlz)
 - [📽️ Video 2](https://youtu.be/aKscPJWVfqs?si=dI-K-emiNP0nAaAV)
----------------------------------------------------------------------------------------------------------------------------
 
-- [UX in 1️⃣0️⃣0️⃣ minutes](https://www.youtube.com/watch?v=gv1Zg9_UYo0)
-- [Important Articles - post series](https://www.linkedin.com/posts/menna-abdalaziz_%D8%A7%D9%84%D8%B1%D8%AD%D9%84%D8%A9-%D8%A7%D9%84%D9%84%D9%8A-%D8%A3%D8%B3%D8%AA%D9%85%D8%B1%D8%AA-6-%D8%B4%D9%87%D9%88%D8%B1-%D8%A3%D9%86%D8%AA%D9%87%D8%AA-activity-7410705189382529024-86Py?)
 --------------------------------------------------------------------------------------------------------------------------
 ### AI Tools:
 - [UIzard](https://uizard.io/)
@@ -275,6 +277,8 @@ A structured learning roadmap designed for CIS Team MU members to build and adva
 - [Lovable](https://lovable.dev/designers)
 - [Stitch](https://stitch.withgoogle.com/)
 
+  ------------------------------------------------------------------------------------------------------
+
 ## 📝 Tasks:
 - Full project with a team to apply all you’ve learnt.
 - [💫 Responsive web design](https://www.youtube.com/watch?v=6-pzw7HXimg)
@@ -285,6 +289,7 @@ A structured learning roadmap designed for CIS Team MU members to build and adva
   <img width="770" height="700" alt="Keep going!" src="https://github.com/user-attachments/assets/7101f822-9c1e-477c-886c-37dce84dc495" />
 
 -------------------------------------------------------------------------------------------------------------------------------
+
 # 🥇 Advanced: (Week 21 - Week 24)
 ## UI Design: Components & Variables:
 - [📽️ Video 1](https://www.youtube.com/watch?v=MDS1F_S8iJ8)
@@ -292,6 +297,7 @@ A structured learning roadmap designed for CIS Team MU members to build and adva
 - [📽️ Video 3](https://www.youtube.com/watch?v=xZjRhIS0H0c)
 - [📽️ Another resource pt.1](https://youtu.be/MeNNPaxT3UM?si=lj5jIdcFFfS7lpJe)
 - [📽️ Another resource pt.2](https://youtu.be/a6w1_ZaVhVo?si=H_g8kl8NlNz-fH-B)
+- [📽️ Eng. Islam El-Amir](https://youtu.be/G_jmN6oZyXM?si=5d7qESWYmtHK_qDO)
 - [📽️ English resource 1](https://www.youtube.com/watch?v=BbTiMmnsjqE)
 - [📽️ English resource 2](https://youtu.be/fn4rP20U2UM?si=9CFgGzi8fb7_d2mI)
 --------------------------------------------------------------------------------------------------------------------------------
@@ -305,15 +311,11 @@ A structured learning roadmap designed for CIS Team MU members to build and adva
 - [📽️ English Video 3](https://www.youtube.com/watch?v=YFCistZV8wY)
 
 --------------------------------------------------------------------------------------------------------------------------------
-## Learn a vibe coding tool:
+
+## Learn a no-code website development tool:
 - [Framer](https://www.framer.com/)
 - [Webflow](https://webflow.com/)
 - [Wix](https://www.wix.com/)
-
---------------------------------------------------------------------------------------------------------------------------------
-## Learn the laws:
-- [Laws of UX](https://lawsofux.com/)
-- [Laws of UI](https://uxdesign.cc/58-rules-for-stunning-and-effective-user-interface-design-ea4b93f931f6)
 
 --------------------------------------------------------------------------------------------------------------------------------
 
@@ -331,6 +333,11 @@ A structured learning roadmap designed for CIS Team MU members to build and adva
 
 --------------------------------------------------------------------------------------------------------------------------------
 
+## Extras:
+- [📽️Good series](https://youtu.be/zip7p7XHHfY?si=P6Cee-syqez3OGyO)
+- [Game UI](https://www.coursera.org/learn/game-design)
+- [Gamification](https://youtube.com/playlist?list=PLRnev9pmfFhFSZcstChmAz4bDdEQz6NaX&si=7egdsZHBjd_1nB6F)
+- [VR / AR Design](https://www.toptal.com/designers/ui/vr-ar-design-guide)
 
 ## Templates:
 - [LinkedIn post](https://www.linkedin.com/posts/dehghanpoursamaneh_ux-uxdesign-uxui-activity-7371527881899974656-FqXx?utm_source=share&utm_medium=member_desktop&rcm=ACoAADweRQEBAoYiRI_4MmSX6TTsySHmdD0wSzI)
@@ -338,6 +345,12 @@ A structured learning roadmap designed for CIS Team MU members to build and adva
 
 ## 📝 Tasks:
 - Project to implement light & dark modes or different languages.
+
+- Project ideas:
+  - A website for booking hotels, flights and trips (like trip-advisor || Air BnB...).
+  - A website for real-estate property finding (search for an apartment, chalets, villas...etc) - (like Property Finder || Nawy...).
+  - A mobile app for buying & selling (ad-enlistings) - (like Dubbizle ||  OpenSooq...).
+  - A mobile app for e-commerce (selling electronics) - (Amazon || Noon...).
 
 
 ### Congrats!!! You've Made It 🎉🎉🎉
@@ -464,11 +477,6 @@ A structured learning roadmap designed for CIS Team MU members to build and adva
 - [7 Common Mistake To Avoid](https://uxplanet.org/is-your-ui-messy-7-common-mistakes-to-avoid-31ae18689b61)
 - [10 rules of composition all designers](https://www.canva.com/learn/visual-design-composition/)
 - [10 tips for designing the user mind](https://www.seekmomentum.com/blog/website-design/10-tips-designing-users-mind)
-
- ### Full UI project
-- An idea from your mind as it will be designed for:
-    - Mobile Application
-    - Website
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
