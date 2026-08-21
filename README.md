@@ -52,7 +52,7 @@ A structured learning roadmap designed for CIS Team MU members to build and adva
 ## 📝 Task:
 - Share a LinkedIn post on the differences between UI, UX and Product design.
 
-    <img width="550" height="500" alt="image" src="https://github.com/user-attachments/assets/cfe5d245-22da-4fe6-a70b-92534d2a8be8"/>  
+    <img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/cfe5d245-22da-4fe6-a70b-92534d2a8be8"/>  
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
