@@ -84,6 +84,10 @@ A structured learning roadmap designed for CIS Team MU members to build and adva
 - [Typography](https://careerfoundry.com/en/blog/ui-design/typography-ui-design/)
 --------------------------------------------------------------------------------------------------------------------------
 
+### Recorded session:
+- [Session](https://drive.google.com/drive/folders/1aBpV2uHo6FdsWtAE83a4XGyz9W7EQPW1?usp=drive_link)
+
+
 ## 📝 Task:
 - Write a set of posts on "The art of everyday things" book!
 
@@ -97,6 +101,8 @@ A structured learning roadmap designed for CIS Team MU members to build and adva
 ### Learn Figma
 - [📽️ Arabic Video - Pt.1](https://www.youtube.com/watch?v=i8mBt_883y8)
 - [📽️ Arabic Video - Pt.2](https://www.youtube.com/watch?v=JOUcTCl4Ad4&list=PLjzhiGLyugKwnM6uN4NXhfpU8L7XvtDEv&index=14)
+- [📽️ New Arabic Video Resource - 1](https://youtu.be/hwoxqfhLCXo?si=wrSmJg3bBE8ZYOsy)
+- [📽️ New Arabic Video Resource - 2](https://youtu.be/VxdIGHJT7dc?si=PMCQ2v0ffqyuIHFT)
 - [📽️ English Video](https://www.youtube.com/watch?v=1pW_sk-2y40)
 -----------------------------------------------------------------------------------------------
 
@@ -104,7 +110,7 @@ A structured learning roadmap designed for CIS Team MU members to build and adva
 ## 🪜 More UI Principles
 ### Grids:
 - [📽️ Arabic Video 1](https://www.youtube.com/watch?v=Puqqgs_uLi4&pp=ygUOZ3JpZHMgaW4gZmlnbWE%3D)
-- [📽️ Arabic Video 2](https://youtu.be/xUfiMPTz2mI?si=oL3d0YnQBnqdmYUG)
+- [📽️ Arabic Video 2](https://youtu.be/K4-QGtUP0w8?si=bMhIiaPZsuUUJvFV)
 -------------------------------------------------------------------------------------------
 
 ### Spacing & Layout:
@@ -122,7 +128,9 @@ A structured learning roadmap designed for CIS Team MU members to build and adva
 
 ### 💭 Learn Design Thinking:
 - [🖇️ Set of small posts](https://lnkd.in/p/df646Bia)
+- [LinkedIn Article](https://www.linkedin.com/pulse/from-zero-first-design-beginners-guide-ux-process-haneen-al-metwally-y7emf)
 - [📽️ Arabic Video](https://youtu.be/9I6_tasplB0?si=TwWmhTjGe0B5No3Y)
+- [📽️ New Video](https://youtu.be/M6FfVwW6Bw0?si=_rfRAM86TOLc6Wjh)
 ---------------------------------------------------------------------------------------------
 
 ## 📝 Task:
@@ -226,7 +234,9 @@ A structured learning roadmap designed for CIS Team MU members to build and adva
 - [📽️ Arabic Video 2](https://www.youtube.com/watch?v=xUfiMPTz2mI&pp=ygUOZ3JpZHMgaW4gZmlnbWE%3D)
 - [📽️Arabic Video 3](https://youtu.be/UATKp18twQY?si=Ai-Z8omUPmZgTRCk)
 - [📽️ English Video](https://www.youtube.com/watch?v=gwiX0oASlEw)
-  
+
+### Recorded session:
+- [Session](https://drive.google.com/file/d/1rvP_f3DwGPx5j-lv5CGp-uk78F9n-U4C/view?usp=drive_link)
 ----------------------------------------------------------------------------------------------------------------
 
 ### Design System:
@@ -237,6 +247,8 @@ A structured learning roadmap designed for CIS Team MU members to build and adva
 - [📽️ Checkboxes & Radio buttons](https://youtu.be/vfCAFDtENVE?feature=shared)
 - [📽️ Pattern Library](https://youtu.be/vfCAFDtENVE?feature=shared)
 - [📘 Book: The actionable guide to starting your design system](https://drive.google.com/drive/folders/1KTmzWMcdzorubP3gq78Q6ur18eZv9Vji)
+- [Website of resources](https://ui-elements-dictionary.uxera.net/#home)
+- [Atlassian system](https://atlassian.design/design-system)
   
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -259,6 +271,9 @@ A structured learning roadmap designed for CIS Team MU members to build and adva
 - [🎥 Review by senior 1 ](https://youtu.be/rY2tXKj6RFE?si=8jbGSY9T3OZQ8IT-)
 - [🎥 Review by senior 2](https://youtu.be/MiNy79_aQrY?si=UHlwLCVvLHPl-BvJ)
 - [🎥 Review by senior 3](https://youtu.be/oERUx_eDCNk?si=qgkcEP2OKW7rUK1L)
+- [📽️ Full course](https://youtube.com/playlist?list=PL46oPSW-1dJpYGpl28Nl-L0lKnySqthZZ&si=t4b0hiczoYEXrsd8)
+- [Types of case studies session](https://drive.google.com/file/d/1Dh_5IlbCyODyB_xZ0wCjGtvHkN_5xBfm/view?usp=drive_link)
+
 -----------------------------------------------------------------------------------------------------------------------------------
 
 ### Learn UX Auditing:
@@ -273,7 +288,6 @@ A structured learning roadmap designed for CIS Team MU members to build and adva
 - [UX Audit Pro - ChatGPT](https://chatgpt.com/g/g-rBHMYzlYs-ux-audit-pro)
 - [Magic Pattern](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.magicpatterns.com/&ved=2ahUKEwjEiteY_p-SAxU1Q6QEHV5zCxkQFnoECAsQAQ&usg=AOvVaw0kpGZqES5SPmBmyHXR5G-l)
 - [Claude AI](https://claude.ai/)
-- [Galileo AI](https://galileo.ai/)
 - [Lovable](https://lovable.dev/designers)
 - [Stitch](https://stitch.withgoogle.com/)
 
@@ -338,6 +352,7 @@ A structured learning roadmap designed for CIS Team MU members to build and adva
 - [Game UI](https://www.coursera.org/learn/game-design)
 - [Gamification](https://youtube.com/playlist?list=PLRnev9pmfFhFSZcstChmAz4bDdEQz6NaX&si=7egdsZHBjd_1nB6F)
 - [VR / AR Design](https://www.toptal.com/designers/ui/vr-ar-design-guide)
+- [UX tiktoks](https://vt.tiktok.com/ZS9r4BSBVgeDa-PlyHs/)
 
 ## Templates:
 - [LinkedIn post](https://www.linkedin.com/posts/dehghanpoursamaneh_ux-uxdesign-uxui-activity-7371527881899974656-FqXx?utm_source=share&utm_medium=member_desktop&rcm=ACoAADweRQEBAoYiRI_4MmSX6TTsySHmdD0wSzI)
@@ -369,13 +384,13 @@ A structured learning roadmap designed for CIS Team MU members to build and adva
 - [Edraak 1](https://www.edraak.org/programs/course/uxdesign-v1/)
 - [Edraak 2](https://www.edraak.org/programs/course/interactiondesign-v1/)
 - [Maraaf](https://www.m3aarf.com/certificate/28/%D9%83%D9%88%D8%B1%D8%B3-ui-ux-%D8%B4%D8%B1%D8%AD-%D8%B9%D8%B1%D8%A8%D9%89-%D9%83%D8%A7%D9%85%D9%84-%D9%84%D9%84%D9%85%D8%A8%D8%AA%D8%AF%D8%A6%D9%8A%D9%8A%D9%86-%D8%AA%D8%B5%D9%85%D9%8A%D9%85-%D9%88%D9%8A%D8%A8-video)
+- [Satr](https://satr.tuwaiq.edu.sa/path/JswbScYqpw/view)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # 🎧 Podcasts & Communities:
 - [UX Breakfast](https://www.youtube.com/@UXBreakfast)
 - [UXaweya](https://www.youtube.com/@uxaweya6035)
-- [Caler Edwards](https://www.youtube.com/@CalerEdwards)
 - [UX Writing بالعربي](https://www.youtube.com/@UXWritingar)
 - [حكايات تصميمة](https://www.youtube.com/playlist?list=PLdSQhw3f39FO3C1c2lksZ2wVpBZR9Qq5R)
 - [بودكاست الشركة](https://www.youtube.com/watch?v=p3bHtTDGYws)
@@ -388,6 +403,9 @@ A structured learning roadmap designed for CIS Team MU members to build and adva
 - [UI/UX Egypt](https://www.facebook.com/groups/uiuxegypt/?ref=share&mibextid=NSMWBT)
 - [Figma Arab Community](https://www.facebook.com/groups/1016808492225615/?ref=share&mibextid=NSMWBT)
 - [Egypt Community](https://www.facebook.com/groups/389429177883322/?ref=share&mibextid=NSMWBT)
+- [UI Collective](https://www.youtube.com/@UICollectiveDesign)
+- [Zomra](https://www.youtube.com/@zomra_design)
+- [Telegram community Khattwa](https://t.me/uxiCommunity)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -423,7 +441,6 @@ A structured learning roadmap designed for CIS Team MU members to build and adva
 - [Pixabay](https://www.shutterstock.com/search/pixabay?kw=&gclid=Cj0KCQjw0umSBhDrARIsAH7FCoc2xTMHHU8J9BQXbOJ-p8OEQjoqvNW6LnS0y9wqUdGGvnBrejDcqzAaAglhEALw_wcB)
 - [Reshot](https://www.reshot.com/)
 - [Pinterest](https://www.pinterest.com/)
-
 
 ### Images without BG:
 - [Images without background](https://www.pngegg.com/)
@@ -468,6 +485,13 @@ A structured learning roadmap designed for CIS Team MU members to build and adva
 - [Uplabs](https://www.uplabs.com/)
 - [Pinterest](https://www.pinterest.com/)
 - [Mobbin](https://mobbin.design/)
+
+### Case Study Inspiration Resources
+- [Pins on Behance](https://www.behance.net/moodboard/223128623/Case-studies)
+- [Notion page with 100+ examples](https://arpitstemplate.notion.site/100-Behance-Top-Case-Studies-for-UI-UX-Designer-273c1fefedea43d2b6848ece6c31381b)
+- [Mockups resources 1](https://drive.google.com/drive/folders/17fs40xOT8knUNrolzJ7CiXS_pO5NFZsb?usp=sharing)
+- [Mockups resources 2](https://drive.google.com/drive/folders/1OXS6i-5LQqIiIyftDCEzkPbJ3SQqJIeV?usp=drive_link)
+- [Figma resources](https://drive.google.com/file/d/1AqPsEVRwaax0Zx-mMJuKm3tWykdoRqDp/view?usp=drive_link)
 
 
  ### UI Design articles
