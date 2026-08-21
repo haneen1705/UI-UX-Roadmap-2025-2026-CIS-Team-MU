@@ -207,7 +207,7 @@ A structured learning roadmap designed for CIS Team MU members to build and adva
 - Choose a project idea and do the empathize, define & ideate phases for it.  
 
 
-  <img width="770" height="700" alt="647f462280b236609006a622_The UX Design Process Everything You Need to Know_2" src="https://github.com/user-attachments/assets/38f19b95-5e69-46a3-95b6-b9fbbc8a10eb" />
+  <img width="770" height="500" alt="647f462280b236609006a622_The UX Design Process Everything You Need to Know_2" src="https://github.com/user-attachments/assets/38f19b95-5e69-46a3-95b6-b9fbbc8a10eb" />
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
