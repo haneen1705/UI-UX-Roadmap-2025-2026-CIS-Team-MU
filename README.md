@@ -510,6 +510,6 @@ A structured learning roadmap designed for CIS Team MU members to build and adva
 <a href="https://www.linkedin.com/in/dina-elhadedy-841172323/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
   
 <a href="https://www.facebook.com/haneen.al.metwally.2025"><img src="https://img.shields.io/badge/Facebook-%234267B2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/haneen-elmetwally/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/haneen-almetwally/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
 
 ![TheOfficeMichaelScottGIF](https://github.com/user-attachments/assets/76451ea2-2466-45cc-8c42-759f348c1ed0)
